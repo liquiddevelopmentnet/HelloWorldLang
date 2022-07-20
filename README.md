@@ -1,8 +1,15 @@
 <h1 style="text-align:center">Hello World Language</h1>
-![lang](https://img.shields.io/badge/coded%20in-java-red?style=flat-square)
-![usedby](https://img.shields.io/badge/used%20by-nobody-red?style=flat-square)
-![version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
-![stars](https://img.shields.io/github/stars/liquiddevelopmentnet/HelloWorldLang?style=flat-square)
+
+</br>
+
+<div align="center">
+
+[![lang](https://img.shields.io/badge/coded%20in-java-red?style=flat-square)]()
+[![usedby](https://img.shields.io/badge/used%20by-nobody-red?style=flat-square)]()
+[![version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)]()
+[![stars](https://img.shields.io/github/stars/liquiddevelopmentnet/HelloWorldLang?style=flat-square)](https://github.com/liquiddevelopmentnet/HelloWorldLang/stargazers)
+
+</div>
 
 ---
 
