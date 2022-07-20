@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+    id 'antlr'
+    id 'idea'
+}
+
+group 'net.liquid.hwli'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+
+    compileOnly "org.projectlombok:lombok:1.18.22"
+    annotationProcessor "org.projectlombok:lombok:1.18.22"
+
+    implementation "org.apache.commons:commons-lang3:3.7"
+    implementation "info.picocli:picocli:4.6.3"
+
+    implementation "org.fusesource.jansi:jansi:2.4.0"
+
+    antlr "org.antlr:antlr4:4.10.1"
+    implementation "org.antlr:antlr4-runtime:4.10.1"
+}
+
+test {
+    useJUnitPlatform()
+}
