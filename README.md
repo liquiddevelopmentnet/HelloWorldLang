@@ -1,8 +1,6 @@
-<h1 style="text-align:center">Hello World Language</h1>
-
-</br>
-
 <div align="center">
+
+<h1 style="text-align:center">Hello World Language</h1>
 
 [![lang](https://img.shields.io/badge/coded%20in-java-red?style=flat-square)]()
 [![usedby](https://img.shields.io/badge/used%20by-nobody-red?style=flat-square)]()
